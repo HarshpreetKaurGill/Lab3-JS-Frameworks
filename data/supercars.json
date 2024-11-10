@@ -1,0 +1,34 @@
+ [
+      {
+        "name": "Koenigsegg Agera RS",
+        "top_speed": "277 mph",
+        "horsepower": 1160
+      },
+      {
+        "name": "Koenigsegg Jesko",
+        "top_speed": "330 mph",
+        "horsepower": 1600
+      },
+      {
+        "name": "Koenigsegg Regera",
+        "top_speed": "255 mph",
+        "horsepower": 1500
+      },
+      {
+        "name": "Ferrari LaFerrari",
+        "top_speed": "218 mph",
+        "horsepower": 950
+      },
+      {
+        "name": "Lamborghini Aventador SVJ",
+        "top_speed": "217 mph",
+        "horsepower": 759
+      },
+      {
+        "name": "Bugatti Chiron Super Sport 300+",
+        "top_speed": "304 mph",
+        "horsepower": 1578
+      }
+    ]
+  
+  

@@ -43,3 +43,22 @@ This repo includes the following JavaScript files.
 2. Get: get the list of items.
 3. Put: Update an existing item.
 4. Delete: Delete an item.
+
+## Testing the API with Postman
+For testing, open Postman and use the routes outlined above to send requests. Here's is how to do it:
+1. Testing POST:Add a JSON object in the request body to create a new entry.
+2. Testing GET: Simply enter the URL and view the returned JSON data.
+3. Testing PUT: Use a JSON object with the updated data and specify the id of the item to update.
+4. Testing DELETE: Enter the id in the URL to remove an item.
+Then captured screenshots of successful responses in Postman for each opering.
+
+## Conclusion 
+This assignment demonstrates the basics of building a RESTful API with Express.js in Node.js, focusing on the core CRUD (Create, Read, Update, Delete) operations. Through this project, we learned how to set up a Node.js environment, create and manage routes in Express, handle JSON data, and use Postman for API testing.
+
+By completing these tasks, we gained practical experience with fundamental web development skills, including:
+- Structuring a server application with Express boilerplate code.
+- Setting up endpoints for CRUD operations to interact with data stored in JSON files.
+- Utilizing Nodemon for streamlined development with automatic restarts on file changes.
+- Exploring ES6 modules to enable modern JavaScript syntax.
+
+These skills provide a foundation for building and expanding web applications in future projects. Through this hands-on practice, we better understand server-side programming and RESTful API development, which are essential for backend development in modern web applications.
